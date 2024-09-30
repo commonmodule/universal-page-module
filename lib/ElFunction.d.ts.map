@@ -1,1 +1,1 @@
-{"version":3,"file":"ElFunction.d.ts","sourceRoot":"","sources":["../src/ElFunction.ts"],"names":[],"mappings":"AAAA,OAAO,WAAW,MAAM,kBAAkB,CAAC;AAE3C,KAAK,UAAU,CAAC,KAAK,EAAE,MAAM,IAAI,CAC/B,QAAQ,EAAE,WAAW,EACrB,GAAG,QAAQ,EAAE,MAAM,EAAE,KAClB,KAAK,CAAC;AAEX,eAAe,UAAU,CAAC"}
+{"version":3,"file":"ElFunction.d.ts","sourceRoot":"","sources":["../src/ElFunction.ts"],"names":[],"mappings":"AAAA,OAAO,WAAW,MAAM,kBAAkB,CAAC;AAE3C,KAAK,UAAU,CAAC,KAAK,IAAI,CACvB,QAAQ,EAAE,WAAW,EACrB,GAAG,QAAQ,EAAE,CAAC,KAAK,GAAG,MAAM,CAAC,EAAE,KAC5B,KAAK,CAAC;AAEX,eAAe,UAAU,CAAC"}
