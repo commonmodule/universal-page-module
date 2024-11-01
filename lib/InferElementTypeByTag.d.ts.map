@@ -1,0 +1,1 @@
+{"version":3,"file":"InferElementTypeByTag.d.ts","sourceRoot":"","sources":["../src/InferElementTypeByTag.ts"],"names":[],"mappings":"AAAA,OAAO,GAAG,MAAM,UAAU,CAAC;AAE3B,KAAK,qBAAqB,CAAC,EAAE,SAAS,GAAG,GAAG,MAAM,IAAI,EAAE,SAAS,EAAE,GAC/D,cAAc,GACd,CACA,EAAE,SAAS,MAAM,qBAAqB,GAAG,qBAAqB,CAAC,EAAE,CAAC,GAC9D,WAAW,CAChB,CAAC;AAEJ,eAAe,qBAAqB,CAAC"}
