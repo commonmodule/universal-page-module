@@ -1,1 +1,1 @@
-{"version":3,"file":"mod.d.ts","sourceRoot":"","sources":["../src/mod.ts"],"names":[],"mappings":"AAAA,YAAY,EAAE,OAAO,IAAI,GAAG,EAAE,MAAM,UAAU,CAAC;AAC/C,YAAY,EAAE,OAAO,IAAI,WAAW,EAAE,MAAM,kBAAkB,CAAC"}
+{"version":3,"file":"mod.d.ts","sourceRoot":"","sources":["../src/mod.ts"],"names":[],"mappings":"AAAA,YAAY,EAAE,OAAO,IAAI,WAAW,EAAE,MAAM,kBAAkB,CAAC;AAC/D,YAAY,EAAE,OAAO,IAAI,EAAE,EAAE,MAAM,SAAS,CAAC;AAC7C,YAAY,EAAE,OAAO,IAAI,iBAAiB,EAAE,MAAM,wBAAwB,CAAC;AAC3E,YAAY,EAAE,OAAO,IAAI,iBAAiB,EAAE,MAAM,wBAAwB,CAAC;AAC3E,YAAY,EAAE,OAAO,IAAI,gBAAgB,EAAE,MAAM,uBAAuB,CAAC"}

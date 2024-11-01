@@ -1,3 +1,5 @@
+/// <reference lib="dom" />
+
 import ElementOrSelector from "./ElementOrSelector.js";
 import InferElementTypeByTag from "./InferElementTypeByTag.js";
 

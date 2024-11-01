@@ -1,3 +1,5 @@
+/// <reference lib="dom" />
+
 import Tag from "./Tag.js";
 
 type InferElementTypeByTag<TT extends Tag | string> = TT extends ""
