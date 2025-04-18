@@ -2,12 +2,10 @@
   "name": "@commonmodule/universal-page",
   "author": "yj.gaia",
   "homepage": "https://personas.gaia.cc/yj.gaia",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "type": "module",
   "types": "./lib/index.d.ts",
   "main": "./lib/index.js",
-  "dependencies": {
-    "@commonmodule/ts": "^0.1.9"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
